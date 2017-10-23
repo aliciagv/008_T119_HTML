@@ -1,0 +1,6 @@
+{
+    "name": "008_T119_HTML", "version": "1.0.0", "keywords": [
+        "util", "functional", "server", "client", "browser"
+    ], "author": "cice", "contributors": [
+    ], "dependencies": {}
+}
